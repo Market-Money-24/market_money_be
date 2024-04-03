@@ -33,3 +33,7 @@
 /config/master.key
 
 coverage
+
+*/credentials.*
+
+.DS_Store
