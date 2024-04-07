@@ -2,7 +2,6 @@
 require 'spec_helper'
 require 'simplecov'
 require 'faker'
-require 'rails_helper'
 require 'helper_methods'
 
 SimpleCov.start
